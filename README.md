@@ -7,7 +7,7 @@ fe653fd3-c9ce-4594-89e5-a5bc4ae…
 FashionWave is a mid-sized retail chain operating 50 stores across India. Recently, the company noticed stagnant weekend sales, which is concerning because weekends typically drive higher footfall and revenue.
 This project analyzes multi-year sales data and provides insights to increase weekend performance, optimize discount strategy, and improve store-level profitability.
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 Increase weekend sales by 15% in the next quarter
 
@@ -17,7 +17,7 @@ Make data-driven recommendations for discount optimization
 
 Identify underperforming stores and customer behavior trends
 
-📂 Dataset Description
+## 📂 Dataset Description
 
 Source: Kaggle
 
@@ -30,13 +30,13 @@ Columns: 17
 Key Fields:
 Invoice No, Date, Month, Day, DayType (Weekday/Weekend), Quarter, StoreID, ProductID, Category, Quantity, UnitPrice, Discount, CostPerUnit, CustomerType, PaymentMode, Revenue, Total Cost
 
-🛠 Tools Used
+## 🛠 Tools Used
 
 Microsoft Excel: Initial data cleaning & exploration
 
 Power BI: Data modeling, DAX measures, and dashboard creation
 
-🔧 Data Preparation & Modeling
+## 🔧 Data Preparation & Modeling
 
 Steps followed in the analysis:
 
@@ -98,7 +98,7 @@ Profit before vs after discount
 
 Customer segmentation (New vs Returning)
 
-📊 Key Insights
+## 📊 Key Insights
 1️⃣ Revenue & Profit by Category
 
 Accessories generate the highest revenue (~₹83M) and strong profit
@@ -139,7 +139,7 @@ More consistent spending
 
 Strong potential for loyalty campaigns
 
-🧾 Answers to Business Questions
+## 🧾 Answers to Business Questions
 ✔ Which categories perform best?
 
 Accessories > Shoes > Clothing in revenue & profit.
@@ -169,7 +169,7 @@ Total Profit: ₹99.37M
 
 Total Orders: ~11K
 
-📝 Recommendations
+## 📝 Recommendations
 ⭐ 1. Boost Weekend Performance
 
 Weekend-only offers
@@ -220,7 +220,7 @@ Track weekday vs weekend trends
 
 Monitor discount-performance impact
 
-🏁 Conclusion
+## 🏁 Conclusion
 
 The analysis reveals that while FashionWave’s overall sales are healthy, weekend sales remain a major weakness. Profitability is affected by ineffective discounting and variation in store performance.
 By applying data-driven strategies—optimizing discounts, strengthening weekend promotions, and focusing on underperforming stores—the company can realistically achieve a 15% improvement in weekend revenue.
