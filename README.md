@@ -1,6 +1,6 @@
 # FashionWave Sales Analysis – Power BI Project
 
-fe653fd3-c9ce-4594-89e5-a5bc4ae…
+
 
 ## 📌 Project Overview
 
@@ -9,13 +9,13 @@ This project analyzes multi-year sales data and provides insights to increase we
 
 ## 🎯 Project Objectives
 
-Increase weekend sales by 15% in the next quarter
+- Increase weekend sales by 15% in the next quarter
 
-Improve product-level profitability
+- Improve product-level profitability
 
-Make data-driven recommendations for discount optimization
+- Make data-driven recommendations for discount optimization
 
-Identify underperforming stores and customer behavior trends
+- Identify underperforming stores and customer behavior trends
 
 ## 📂 Dataset Description
 
