@@ -40,7 +40,7 @@ Invoice No, Date, Month, Day, DayType (Weekday/Weekend), Quarter, StoreID, Produ
 
 ### Steps followed in the analysis:
 
-✔ Data Cleaning (Power Query)
+### ✔ Data Cleaning (Power Query)
 
 Removed duplicates
 
@@ -56,7 +56,7 @@ WeekStartDate
 
 Year Quarter
 
-✔ Data Modeling
+### ✔ Data Modeling
 
 Designed Star Schema
 
@@ -64,7 +64,7 @@ FactSales table
 
 Dimension tables: Date, Store, Product
 
-✔ DAX Measures
+### ✔ DAX Measures
 
 Key measures created:
 
@@ -84,7 +84,7 @@ Weekend Revenue
 
 Weekday Revenue
 
-✔ Visualizations
+### ✔ Visualizations
 
 Interactive dashboard showing:
 
