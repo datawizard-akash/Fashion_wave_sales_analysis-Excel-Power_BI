@@ -19,26 +19,26 @@ This project analyzes multi-year sales data and provides insights to increase we
 
 ## 📂 Dataset Description
 
-Source: Kaggle
+- Source: Kaggle
 
-Time Period: 2023–2025
+- Time Period: 2023–2025
 
-Rows: 15,000
+- Rows: 15,000
 
-Columns: 17
+- Columns: 17
 
-Key Fields:
+- Key Fields:
 Invoice No, Date, Month, Day, DayType (Weekday/Weekend), Quarter, StoreID, ProductID, Category, Quantity, UnitPrice, Discount, CostPerUnit, CustomerType, PaymentMode, Revenue, Total Cost
 
 ## 🛠 Tools Used
 
-Microsoft Excel: Initial data cleaning & exploration
+- Microsoft Excel: Initial data cleaning & exploration
 
-Power BI: Data modeling, DAX measures, and dashboard creation
+- Power BI: Data modeling, DAX measures, and dashboard creation
 
 ## 🔧 Data Preparation & Modeling
 
-Steps followed in the analysis:
+### Steps followed in the analysis:
 
 ✔ Data Cleaning (Power Query)
 
@@ -99,7 +99,7 @@ Profit before vs after discount
 Customer segmentation (New vs Returning)
 
 ## 📊 Key Insights
-1️⃣ Revenue & Profit by Category
+### 1️⃣ Revenue & Profit by Category
 
 Accessories generate the highest revenue (~₹83M) and strong profit
 
@@ -109,19 +109,19 @@ Clothing is the lowest (~₹46M)
 
 Discounts significantly reduce profits, especially for Accessories & Shoes
 
-2️⃣ Weekend vs Weekday Sales
+### 2️⃣ Weekend vs Weekday Sales
 
 Weekdays contribute ~65–66% of total revenue
 
 Weekends contribute only ~34–35%, confirming stagnation
 
-3️⃣ Store Performance
+### 3️⃣ Store Performance
 
 Stores like STR001, STR003, STR005 lead consistently
 
 Multiple stores show weak performance → need for store-specific improvements
 
-4️⃣ Discount Impact
+### 4️⃣ Discount Impact
 
 Profit Before Discount: ~₹159.32M
 
@@ -129,7 +129,7 @@ Profit After Discount: ~₹139.96M
 
 Heavy discounting reduces profit margins significantly
 
-5️⃣ Customer Segmentation
+### 5️⃣ Customer Segmentation
 
 Returning customers show:
 
@@ -140,28 +140,28 @@ More consistent spending
 Strong potential for loyalty campaigns
 
 ## 🧾 Answers to Business Questions
-✔ Which categories perform best?
+### ✔ Which categories perform best?
 
 Accessories > Shoes > Clothing in revenue & profit.
 
-✔ How do weekend sales compare?
+### ✔ How do weekend sales compare?
 
 Weekends underperform at only 34–35% of revenue.
 
-✔ Impact of discounting?
+### ✔ Impact of discounting?
 
 Profit drops ~₹20M after discounts → discounts must be more targeted.
 
-✔ Which stores are underperforming?
+### ✔ Which stores are underperforming?
 
 Multiple stores have low weekly revenue → possibly due to local demand, poor merchandising, or weak promotion.
 
-✔ Can customers be segmented?
+### ✔ Can customers be segmented?
 
 Yes — New vs Returning.
 Returning customers are more profitable; loyalty strategies can be effective.
 
-✔ Overall performance?
+### ✔ Overall performance?
 
 Total Revenue: ₹136.76M
 
@@ -170,7 +170,7 @@ Total Profit: ₹99.37M
 Total Orders: ~11K
 
 ## 📝 Recommendations
-⭐ 1. Boost Weekend Performance
+### ⭐ 1. Boost Weekend Performance
 
 Weekend-only offers
 
@@ -180,7 +180,7 @@ In-store events
 
 Targeted digital promotions
 
-⭐ 2. Optimize Discount Strategy
+### ⭐ 2. Optimize Discount Strategy
 
 Reduce blanket discounting
 
@@ -188,7 +188,7 @@ Focus discounts on slow-moving items
 
 Control discount depth to protect margins
 
-⭐ 3. Improve Low-Performing Stores
+### ⭐ 3. Improve Low-Performing Stores
 
 Store audits
 
@@ -198,13 +198,13 @@ Better visual merchandising
 
 Localized marketing
 
-⭐ 4. Promote High-Margin Categories
+### ⭐ 4. Promote High-Margin Categories
 
 Upsell Accessories at checkout
 
 Cross-sell related items
 
-⭐ 5. Strengthen Loyalty Programs
+### ⭐ 5. Strengthen Loyalty Programs
 
 Personalized SMS/email offers
 
@@ -212,7 +212,7 @@ Reward returning customers
 
 Encourage repeat visits
 
-⭐ 6. Continuous Monitoring
+### ⭐ 6. Continuous Monitoring
 
 Keep dashboard refreshed
 
