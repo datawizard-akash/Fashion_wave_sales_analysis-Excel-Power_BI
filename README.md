@@ -1,8 +1,8 @@
-FashionWave Sales Analysis – Power BI Project
+# FashionWave Sales Analysis – Power BI Project
 
 fe653fd3-c9ce-4594-89e5-a5bc4ae…
 
-📌 Project Overview
+## 📌 Project Overview
 
 FashionWave is a mid-sized retail chain operating 50 stores across India. Recently, the company noticed stagnant weekend sales, which is concerning because weekends typically drive higher footfall and revenue.
 This project analyzes multi-year sales data and provides insights to increase weekend performance, optimize discount strategy, and improve store-level profitability.
